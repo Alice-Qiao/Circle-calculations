@@ -1,0 +1,15 @@
+body {
+  background-color: azure;
+  text-align: center;
+}
+
+p {
+  color: #03c;
+  font-family: cursive;
+  font-size: 70%;
+}
+
+#image {
+  height: 50%;
+  width: 50%;
+}
